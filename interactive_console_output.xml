@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.1 on win32)" generated="20230902 20:28:31.018" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Aline Feitosa\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Short password">
+<arg>1</arg>
+<msg timestamp="20230902 20:28:33.243" level="FAIL">No keyword with name 'Short password' found.</msg>
+<status status="FAIL" starttime="20230902 20:28:33.243" endtime="20230902 20:28:33.243"/>
+</kw>
+<status status="PASS" starttime="20230902 20:28:31.082" endtime="20230902 20:28:36.043"/>
+</kw>
+<status status="PASS" starttime="20230902 20:28:31.080" endtime="20230902 20:28:36.044"/>
+</test>
+<status status="PASS" starttime="20230902 20:28:31.021" endtime="20230902 20:28:36.045"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
